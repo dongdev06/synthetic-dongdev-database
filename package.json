@@ -1,0 +1,62 @@
+{
+  "_from": "synthetic-dongdev-database@latest",
+  "_id": "synthetic-dongdev-database@1.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-vWbKvYd5wblS49bwm8hfXeqXWcpOnCklMT0tCjJYROxtzaXpgbAjpuZZMvtutpW07kd8G9onVaLf/TXYS5LIng==",
+  "_location": "/synthetic-horizon-database",
+  "_phantomChildren": {
+    "@mapbox/node-pre-gyp": "1.0.9",
+    "node-gyp": "8.4.1",
+    "tar": "6.1.11"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "synthetic-dongdev-database@latest",
+    "name": "synthetic-dongdev-database",
+    "escapedName": "synthetic-dongdev-database",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "/fca-horizon-remake"
+  ],
+  "_resolved": "https://registry.npmjs.org/synthetic-dongdev-database/-/synthetic-dongdev-database-1.2.3.tgz",
+  "_shasum": "e94c920f46921885b3f6cbf9871a698609035eb6",
+  "_spec": "synthetic-dongdev-database@latest",
+  "_where": "/home/runner/fca-dongdev-remake",
+  "author": {
+    "name": "KanzuWakazaki"
+  },
+  "bugs": {
+    "url": "https://github.com/dongdev06/synthetic-dongdev-database/issuess"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "better-sqlite3": "7.4.5",
+    "lodash": "latest",
+    "node-fetch": "2.6.0",
+    "sqlite": "4.0.21",
+    "sqlite3": "5.0.3"
+  },
+  "deprecated": false,
+  "description": "Database tổng hợp ngắn gọn cho Fca-Horizon-Remake",
+  "homepage": "https://github.com/dongdev06/synthetic-dongdev-database#readme",
+  "keywords": [
+    "Synthetic",
+    "Dongdev",
+    "Database"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "synthetic-dongdev-database",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongdev06/synthetic-dongdev-database.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.3"
+}
